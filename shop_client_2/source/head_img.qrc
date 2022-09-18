@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="head">head.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file alias="btn">btn.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix3">
+        <file alias="btn_test1">btn1.png</file>
+        <file alias="btn_test2">btn2.png</file>
+        <file alias="btn_test3">btn3.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix4"/>
+</RCC>

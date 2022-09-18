@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="head">source/head.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file alias="btn">source/btn.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix3">
+        <file alias="btn_test1">source/btn1.png</file>
+        <file alias="btn_test2">source/btn2.png</file>
+        <file alias="btn_test3">source/btn3.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>picture/good1.png</file>
+        <file>picture/left_change.png</file>
+        <file>picture/login.png</file>
+        <file>picture/right_change.png</file>
+        <file>picture/srch.png</file>
+        <file>picture/updt.png</file>
+        <file>picture/user_info1.png</file>
+        <file>picture/VIP.png</file>
+        <file>picture/cart_change.png</file>
+        <file>picture/cart1.png</file>
+        <file>picture/header.png</file>
+        <file>picture/good_change.png</file>
+        <file>picture/user_info_change1.png</file>
+        <file>picture/paw.png</file>
+        <file>picture/refresh1.png</file>
+        <file>picture/update.png</file>
+        <file>picture/refresh3.png</file>
+        <file>picture/search2.png</file>
+        <file>picture/search.png</file>
+        <file>picture/update_clicked.png</file>
+        <file>picture/search_clicked.png</file>
+        <file>picture/cart.png</file>
+        <file>picture/good.png</file>
+        <file>picture/left_clicked.png</file>
+        <file>picture/right_clicked.png</file>
+        <file>picture/user_info2.png</file>
+        <file>picture/user_clicked.png</file>
+        <file>picture/user_info.png</file>
+        <file>picture/user_info_change.png</file>
+    </qresource>
+</RCC>
