@@ -14,4 +14,4 @@
 · 查看购买记录<br>
 · 登陆注册系统
 ### 部分效果展示<br>
-
+![image](https://github.com/miao1108/netshop/blob/main/resultshow/mainwindow2.jpg?raw=true）
